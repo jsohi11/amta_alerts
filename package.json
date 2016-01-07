@@ -1,0 +1,14 @@
+{
+  "name": "amta_alerts",
+  "version": "1.0.0",
+  "description": "Alerts for mock trial tournaments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacinth Sohi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
